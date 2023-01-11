@@ -1,4 +1,4 @@
-# ✿ Daisy Chain
+# 🌼 Daisy Chain
 
 Add a daisy chain to your status bar.
 
