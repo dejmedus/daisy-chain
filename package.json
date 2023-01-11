@@ -10,9 +10,6 @@
     "url": "https://github.com/dejmedus/daisy-chain"
   },
   "icon": "images/icon.png",
-  "galleryBanner": {
-    "color": "#badfda"
-  },
   "engines": {
     "vscode": "^1.74.0"
   },
