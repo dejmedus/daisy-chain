@@ -1,8 +1,10 @@
 {
   "name": "daisy-chain",
   "displayName": "Daisy Chain",
+  "publisher": "dejmedus",
   "description": "Add a daisy chain to your status bar!",
   "version": "0.0.1",
+  "pricing": "Free",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -15,7 +17,7 @@
     "commands": [
       {
         "command": "daisy-chain.start",
-        "title": "Add a daisy chain"
+        "title": "Add daisy chain"
       }
     ]
   },
