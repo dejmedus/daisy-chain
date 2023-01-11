@@ -2,7 +2,7 @@
 
 Add a daisy chain to your status bar.
 
-![daisy chain screenshot](images/daisy-chain.png)
+<img width="477" alt="daisy-chain" src="https://user-images.githubusercontent.com/59973863/211713209-e92c4111-9c04-4631-beb0-857d3e6aa2b4.png">
 
 #### Available Commands
 - Add daisy chain
