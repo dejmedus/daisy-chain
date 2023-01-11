@@ -5,6 +5,7 @@
   "description": "Add a daisy chain to your status bar!",
   "version": "0.0.1",
   "pricing": "Free",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.74.0"
   },
