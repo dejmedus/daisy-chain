@@ -5,7 +5,14 @@
   "description": "Add a daisy chain to your status bar!",
   "version": "0.0.1",
   "pricing": "Free",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dejmedus/daisy-chain"
+  },
   "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#badfda"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
