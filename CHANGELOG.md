@@ -1,15 +1,18 @@
 # Change Log
 
 All notable changes to daisy-chain extension will be documented in this file.
+## [0.1.1]
+
+- Fix remove to only run if there active daisy chains
 
 ## [0.1.0]
 
-- logo color change
-- add Remove daisy chain command
+- Logo color change
+- Add Remove daisy chain command
 
 ## [0.0.2]
 
-- remove gallery banner color
+- Remove gallery banner color
   
 ## [0.0.1]
 
