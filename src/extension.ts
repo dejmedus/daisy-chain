@@ -23,9 +23,10 @@ export function activate(context: vscode.ExtensionContext) {
   });
 
   let remove = vscode.commands.registerCommand("daisy-chain.end", () => {
-    chains[chains.length - 1].dispose();
-    chains.pop();
-    console.log(chains);
+    if (chains.length > 0) {
+      chains[chains.length - 1].dispose();
+      chains.pop();
+    }
   });
 
   context.subscriptions.push(add);
