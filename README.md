@@ -6,11 +6,14 @@ Add a daisy chain to your Visual Studio Code status bar.
 
 #### Available Commands
 - Add daisy chain
+- Remove daisy chain
 
 #### Usage
 1. Open the VS Code command pallette
 - *Windows/Linux* Control+Shift+P
 - *Mac* Command+Shift+P
 2. Type `Add daisy chain` and click enter
+
+> To remove the daisy chain, type `Remove daisy chain` and click enter
 
 
